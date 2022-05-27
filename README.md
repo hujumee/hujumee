@@ -3,7 +3,7 @@
 ## 👻Youjung Heo👻
 
 **❄️ Sookmyung Women's Univ**  
-Major in Business/IT Software
+Major in Business/IT Software Engineering
   
 **🌱 I’m currently learning ...**  
   Backend, Server, DB
@@ -19,6 +19,7 @@ Major in Business/IT Software
   ||띱 - 29기 솝트 솝커톤|<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"></br><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">|[Github Repo](https://github.com/29th-sopkathon-ddip/ddip-server)|
   |2022.01 ~ |너가소개서 - 29기 솝트 앱잼 후 릴리즈 ing|<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"></br><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">|[너가소개서](https://www.neogasogaeseo.com/)</br>[Github Repo](https://github.com/Neogasogaeseo/Naega-Server)|
   |2022.03 ~ 2022.07|THE SOPT 30th Server Part|<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"></br><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">|[세미나 repo](https://github.com/30th-THE-SOPT-Server-Part/YuJung)|
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hujumee)](https://github.com/hujumee/github-readme-stats)
 

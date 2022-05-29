@@ -3,7 +3,7 @@
 ## 👻Youjung Heo👻
 
 **❄️ Sookmyung Women's Univ**  
-Major in Business/IT Software Engineering
+Major in Business/IT Engineering
   
 **🌱 I’m currently learning ...**  
   Backend, Server, DB

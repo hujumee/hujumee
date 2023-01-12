@@ -22,8 +22,6 @@ Major in Business/IT Engineering
   |2022.07 ~ |MUMENT - 30기 솝트 앱잼 후 리팩토링 ing|<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"></br><img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">|[Github Repo](https://github.com/team-MUMENT/MUMENT-SERVER)|
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hujumee)](https://github.com/hujumee/github-readme-stats)
-
 <!--
 **hujumee/hujumee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

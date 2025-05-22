@@ -3,15 +3,15 @@
 ## 👻Youjung Heo👻
 
 **❄️ Sookmyung Women's Univ**  
-Major in Business/IT Engineering
+B.A in Business Administration, B.S in IT Engineering
   
 **🌱 I’m currently learning ...**  
-  Backend, Server, DB
+  Linux, File System, Operation System
   
 **📫 Contact On**  
   hujumee27@gmail.com
 
-### Experience
+### Projects
   | Date | Contents | Tech Stack | Link |
   |-----------------|--------------------------------------|----------|-------------|
   |2021.04 ~ 2021.11|한이음 프로보노 멘토링 및 공모전 입선|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge&logo=AWS Lambda&logoColor=white"> <img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=for-the-badge&logo=AWS Amplify&logoColor=white"> </br><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">|[Github Repo](https://github.com/hujumee/braille_project)|

@@ -3,7 +3,8 @@
 ## 👻Youjung Heo
 
 **❄️ Sookmyung Women's Univ**  
-B.A in Business Administration, B.S in IT Engineering
+B.BA in Business Administration, B.E in IT Engineering
+studying for M.E in IT Engineering
   
 **🌱 I’m currently learning ...**  
   Linux, File System, Forensics, Operation System
